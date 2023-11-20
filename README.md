@@ -1,16 +1,36 @@
-# animated_app
+# **Flutter Animated App**
 
-A new Flutter project.
+![Badge Succesfull](https://img.shields.io/badge/STATUS-FINALIZED-green)
 
-## Getting Started
+# Contact
+* [LinkedIn](https://www.linkedin.com/in/sebastian-schmeil/)
 
-This project is a starting point for a Flutter application.
+* schmeil.sebastian97@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
+## Index
+- [Description](#description)
+- [Demo](#demo)
+- [Access to the Project](#access-to-the-project)
+- [Technologies Used](#technologies-used) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Description
+Flutter Animated App is an engaging application that leverages Rive Animations to deliver a visually pleasing design for users.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+Explore the application's functionalities by watching the demo video here.
+
+## Access to the Project
+
+To access and test the project, follow these steps:
+
+* Clone the repository.
+* Open the project in Android Studio or Visual Studio Code.
+* Ensure dependencies are installed.
+* Build and run the project on a simulator or physical device.
+
+## Technologies Used
++ Flutter
++ Rive
+
+## Developers
+Sebastian Schmeil
