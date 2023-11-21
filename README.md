@@ -31,6 +31,7 @@ To access and test the project, follow these steps:
 ## Technologies Used
 + Flutter
 + Rive
++ Dart
 
 ## Developers
 Sebastian Schmeil
